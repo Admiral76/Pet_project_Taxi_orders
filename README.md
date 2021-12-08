@@ -22,7 +22,7 @@
 
 ***Навыки и инструменты:***
 
-предобработка данных, python, pandas, seaborn, matplotlib, statsmodels, sklearn, catboost, lightgbm, timeit, datetime, calendar
+предобработка данных, python, pandas, seaborn, matplotlib, statsmodels, sklearn, catboost, lightgbm, timeit, datetime, calendar.
 
 ***Вывод:***
 
